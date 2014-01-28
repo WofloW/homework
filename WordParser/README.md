@@ -22,7 +22,7 @@ The resulting words from parsing the above text should be:
 [sally, sue, sells, 76, sea, shells, by, the, sea, shore]
 ```
 
-See the Javadoc comments in the [`WordParser.java`](WordParser.java) template code for additional details.
+See the Javadoc comments in the [`WordParser.java`](src/WordParser.java) template code for additional details.
 
 ## Files ##
 
