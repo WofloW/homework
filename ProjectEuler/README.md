@@ -19,8 +19,8 @@ See below for the required files and homework hints. See the [Homework README](.
 
 The following files are required for this project.
 
-- [`ProjectEuler06.java`](ProjectEuler06.java)
-- [`ProjectEuler06Test.java`](ProjectEuler06Test.java)
+- [`src/ProjectEuler06.java`](src/ProjectEuler06.java)
+- [`src/ProjectEuler06Test.java`](src/ProjectEuler06Test.java)
 
 Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
 

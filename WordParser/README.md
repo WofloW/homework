@@ -28,8 +28,8 @@ See the Javadoc comments in the [`WordParser.java`](WordParser.java) template co
 
 The following files are required for this project.
 
-- [`WordParser.java`](WordParser.java)
-- [`WordParserTest.java`](WordParserTest.java)
+- [`src/WordParser.java`](src/WordParser.java)
+- [`src/WordParserTest.java`](src/WordParserTest.java)
 - [`seashells.txt`](seashells.txt)
 
 Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
