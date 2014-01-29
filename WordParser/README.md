@@ -34,7 +34,7 @@ The following files are required for this project.
 
 Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
 
-:bulb: **The `seashells.txt` file should be placed in your root project directory, not your `src` subdirectory.**
+:warning: *The [`seashells.txt`](seashells.txt) file should be placed in your root project directory, not your `src` subdirectory.*
 
 ## Hints ##
 
