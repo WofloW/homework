@@ -7,18 +7,18 @@ These are the required template and test code for programming homework assignmen
 
 These are the assignments for Spring 2014. Please see the specific assignment for template code, test code, and any necessary input files. See below for general requirements and submission instructions.
 
-| Homework ## | Homework Name                   | Deadline             |
-|-------------|---------------------------------|:---------------------|
-| Homework 01 | [Project Euler](ProjectEuler/)  | Fri Jan 31 @ 11:59pm |
-| Homework 02 | [Word Parser](WordParser/)      | Fri Feb 07 @ 11:59pm |
-| Homework 03 | Argument Parser                 | Fri Feb 14 @ 11:59pm |
-| Homework 04 | Pending                         | Fri Feb 21 @ 11:59pm |
-| Homework 05 | Pending                         | Fri Feb 28 @ 11:59pm |
-| Homework 06 | Pending                         | Fri Mar 07 @ 11:59pm |
-| Homework 07 | Custom Lock                     | Fri Mar 28 @ 11:59pm |
-| Homework 08 | HREF Parser                     | Fri Apr 04 @ 11:59pm |
-| Homework 09 | HTML Cleaner                    | Fri Apr 11 @ 11:59pm |
-| Homework 10 | HTML Fetcher                    | Fri Apr 18 @ 11:59pm |
+| Homework ## | Homework Name                      | Deadline             |
+|-------------|------------------------------------|:---------------------|
+| Homework 01 | [Project Euler](ProjectEuler/)     | Fri Jan 31 @ 11:59pm |
+| Homework 02 | [Word Parser](WordParser/)         | Fri Feb 07 @ 11:59pm |
+| Homework 03 | [Argument Parser](ArgumentParser/) | Fri Feb 14 @ 11:59pm |
+| Homework 04 | Pending                            | Fri Feb 21 @ 11:59pm |
+| Homework 05 | Pending                            | Fri Feb 28 @ 11:59pm |
+| Homework 06 | Pending                            | Fri Mar 07 @ 11:59pm |
+| Homework 07 | Custom Lock                        | Fri Mar 28 @ 11:59pm |
+| Homework 08 | HREF Parser                        | Fri Apr 04 @ 11:59pm |
+| Homework 09 | HTML Cleaner                       | Fri Apr 11 @ 11:59pm |
+| Homework 10 | HTML Fetcher                       | Fri Apr 18 @ 11:59pm |
 
 The deadlines may be out of date. Check the course website for the most recent information. In general, all homework is due the following Friday that it was assigned at 11:59pm. No late homework is accepted!
 
