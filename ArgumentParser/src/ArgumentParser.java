@@ -93,8 +93,7 @@ public class ArgumentParser {
 	 * Tests if the provided flag is stored in the map.
 	 *
 	 * @param flag - flag to check
-	 * @return true if flag exists and has a value, or false if the flag
-	 * does not exist or does not have a value
+	 * @return true if flag exists in map
 	 */
 	public boolean hasFlag(String flag) {
 		// TODO
