@@ -3,6 +3,7 @@ Homework Assignments
 
 These are the required template and test code for programming homework assignments in CS 212 Software Development at the University of San Francisco. Please note that the exact homework assigned may differ by semester.
 
+<!--
 ## Spring 2014 ##
 
 These are the assignments for Spring 2014. Please see the specific assignment for template code, test code, and any necessary input files. See below for general requirements and submission instructions.
@@ -21,6 +22,7 @@ These are the assignments for Spring 2014. Please see the specific assignment fo
 | Homework 10 | HTML Fetcher                       | Fri Apr 18 @ 11:59pm |
 
 The deadlines may be out of date. Check the course website for the most recent information. In general, all homework is due the following Friday that it was assigned at 11:59pm. No late homework is accepted!
+//-->
 
 ## Requirements ##
 
