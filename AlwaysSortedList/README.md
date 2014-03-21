@@ -9,7 +9,7 @@ The following files are required for this project.
 
 - [`src/AlwaysSortedList.java`](src/AlwaysSortedListTest.java)
 - [`src/AlwaysSortedListTest.java`](src/AlwaysSortedListTest.java)
-- ['src/log4j2.xml'](src/log4j2.xml) (for logging)
+- [`src/log4j2.xml`](src/log4j2.xml) (for logging)
 
 Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
 
