@@ -35,7 +35,7 @@ public class MultiReaderLock {
 	}
 
 	/**
-	 * Will wait until there are no active readers and writers in the system, and
+	 * Will wait until there are no active readers or writers in the system, and
 	 * then will increase the number of active writers.
 	 */
 	public synchronized void lockWrite() {
